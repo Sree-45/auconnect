@@ -210,12 +210,3 @@ spring.mail.password=YOUR_PASSWORD
 Replace `YOUR_EMAIL` and `YOUR_PASSWORD` with your email credentials.
 
 * * * * *
-
-License
--------
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-* * * * *
-
-This [README.md](vscode-file://vscode-app/c:/Users/srees/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html) provides a comprehensive overview of the project, setup instructions, and highlights the files where the email domain needs to be updated.
